@@ -255,7 +255,7 @@ To run this sample you will need:
 Every Azure subscription has an associated Azure Active Directory tenant.  If you don't already have an Azure subscription, you can get a free subscription by signing up at [http://wwww.windowsazure.com](http://www.windowsazure.com).  All of the Azure AD features used by this sample are available free of charge.
 
 ### Step 1:  Clone or download this repository
-Open the solution from your local PnP folder using Visual Studio.
+Open the solution from your local PnP folder using Visual Studio. 
 
 ### Step 2:  Register the Web API in Azure Active Directory
 
@@ -297,3 +297,6 @@ In the **WebApi** Project, update the **Web.Config** file.
     <add key="SharePointURL" value="https://[yourtenant].SharePoint.com" />
   </appSettings> 
 ```
+
+
+<img src="https://telemetry.sharepointpnp.com/pnp/samples/AzureAD.WebAPI.SPOnline" />
